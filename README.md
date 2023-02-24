@@ -65,7 +65,7 @@ make -j$(nproc)
 	| :-:           | :-:                                                                                                |
 	| Redmi AX3000  | https://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/ra81/miwifi_ra81_firmware_2c953_1.0.62.bin      |
 	| Xiaomi CR8806 | https://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/cr8806/miwifi_cr8806_firmware_4622b_6.2.33.bin  |
-	| Xiaomi CR8808 | ( no public firmware has released now )¹ |
+	| Xiaomi CR8808 | http://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/cr8808/miwifi_cr8808_firmware_a3144_6.2.220.bin ( no public firmware has released now )¹ |
 	| Xiaomi CR8809 | https://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/cr8809/miwifi_cr8809_firmware_46dab_6.2.136.bin |
 	> NOTE¹: `Xiaomi CR8808` uses the same `platform magic` as `Xiaomi CR8806`, so you can use the firmware of `Xiaomi CR8806` to flash.
 
